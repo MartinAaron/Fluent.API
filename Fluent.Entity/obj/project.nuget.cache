@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NRRHh25twvLKg2Vlv+Q//9hKhToo3Vtof5Cxkv498+CCd6fReH4/KyKCrhIwb1OcPZFXX9Vx7vVxfBc0uAGOHA==",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\Fluent.Entity\\Fluent.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
