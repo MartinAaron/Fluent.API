@@ -61,8 +61,12 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Fluent.DataRepository\Fluent.DataRepository.csproj">
+      <Project>{0E2968F0-43CE-4D6C-823F-EA8DCA63D688}</Project>
+      <Name>Fluent.DataRepository</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Fluent.Entity\Fluent.Entity.csproj">
-      <Project>{c27fffec-468b-4fa0-b7ea-2157e65faa28}</Project>
+      <Project>{406BCC0E-5722-4527-A98D-5AA6FE52ECD3}</Project>
       <Name>Fluent.Entity</Name>
     </ProjectReference>
   </ItemGroup>
