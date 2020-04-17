@@ -1,30 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projects\\Fluent.Entity\\Fluent.Entity.csproj": {}
+    "/Users/aaronmartin/Projects/Fluent.API/Fluent.Entity/Fluent.Entity.csproj": {}
   },
   "projects": {
-    "F:\\Projects\\Fluent.Entity\\Fluent.Entity.csproj": {
+    "/Users/aaronmartin/Projects/Fluent.API/Fluent.Entity/Fluent.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\Fluent.Entity\\Fluent.Entity.csproj",
+        "projectUniqueName": "/Users/aaronmartin/Projects/Fluent.API/Fluent.Entity/Fluent.Entity.csproj",
         "projectName": "Fluent.Entity",
-        "projectPath": "F:\\Projects\\Fluent.Entity\\Fluent.Entity.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\Fluent.Entity\\obj\\",
+        "projectPath": "/Users/aaronmartin/Projects/Fluent.API/Fluent.Entity/Fluent.Entity.csproj",
+        "packagesPath": "/Users/aaronmartin/.nuget/packages/",
+        "outputPath": "/Users/aaronmartin/Projects/Fluent.API/Fluent.Entity/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/aaronmartin/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +56,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
         }
       }
     }
