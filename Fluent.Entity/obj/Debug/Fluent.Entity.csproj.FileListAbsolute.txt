@@ -1,0 +1,6 @@
+F:\Users\Administrator\Documents\GitHub\Fluent.API\Fluent.Entity\bin\Debug\Fluent.Entity.dll
+F:\Users\Administrator\Documents\GitHub\Fluent.API\Fluent.Entity\bin\Debug\Fluent.Entity.pdb
+F:\Users\Administrator\Documents\GitHub\Fluent.API\Fluent.Entity\obj\Debug\Fluent.Entity.csprojAssemblyReference.cache
+F:\Users\Administrator\Documents\GitHub\Fluent.API\Fluent.Entity\obj\Debug\Fluent.Entity.csproj.CoreCompileInputs.cache
+F:\Users\Administrator\Documents\GitHub\Fluent.API\Fluent.Entity\obj\Debug\Fluent.Entity.dll
+F:\Users\Administrator\Documents\GitHub\Fluent.API\Fluent.Entity\obj\Debug\Fluent.Entity.pdb

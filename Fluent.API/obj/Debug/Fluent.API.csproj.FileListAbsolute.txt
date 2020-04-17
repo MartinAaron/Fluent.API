@@ -1,0 +1,17 @@
+F:\Users\Administrator\Documents\GitHub\Fluent.API\Fluent.API\bin\Debug\Fluent.API.exe.config
+F:\Users\Administrator\Documents\GitHub\Fluent.API\Fluent.API\bin\Debug\Fluent.API.exe
+F:\Users\Administrator\Documents\GitHub\Fluent.API\Fluent.API\bin\Debug\Fluent.API.pdb
+F:\Users\Administrator\Documents\GitHub\Fluent.API\Fluent.API\bin\Debug\EntityFramework.dll
+F:\Users\Administrator\Documents\GitHub\Fluent.API\Fluent.API\bin\Debug\EntityFramework.SqlServer.dll
+F:\Users\Administrator\Documents\GitHub\Fluent.API\Fluent.API\bin\Debug\Fluent.DataRepository.dll
+F:\Users\Administrator\Documents\GitHub\Fluent.API\Fluent.API\bin\Debug\Fluent.Entity.dll
+F:\Users\Administrator\Documents\GitHub\Fluent.API\Fluent.API\bin\Debug\Fluent.DataRepository.pdb
+F:\Users\Administrator\Documents\GitHub\Fluent.API\Fluent.API\bin\Debug\Fluent.DataRepository.dll.config
+F:\Users\Administrator\Documents\GitHub\Fluent.API\Fluent.API\bin\Debug\Fluent.Entity.pdb
+F:\Users\Administrator\Documents\GitHub\Fluent.API\Fluent.API\bin\Debug\EntityFramework.xml
+F:\Users\Administrator\Documents\GitHub\Fluent.API\Fluent.API\bin\Debug\EntityFramework.SqlServer.xml
+F:\Users\Administrator\Documents\GitHub\Fluent.API\Fluent.API\obj\Debug\Fluent.API.csprojAssemblyReference.cache
+F:\Users\Administrator\Documents\GitHub\Fluent.API\Fluent.API\obj\Debug\Fluent.API.csproj.CoreCompileInputs.cache
+F:\Users\Administrator\Documents\GitHub\Fluent.API\Fluent.API\obj\Debug\Fluent.API.csproj.CopyComplete
+F:\Users\Administrator\Documents\GitHub\Fluent.API\Fluent.API\obj\Debug\Fluent.API.exe
+F:\Users\Administrator\Documents\GitHub\Fluent.API\Fluent.API\obj\Debug\Fluent.API.pdb
