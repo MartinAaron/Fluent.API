@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{9981B87D-97B1-4F8F-A20F-AD33A4A0F1D5}|Default">
+  <MonoDevelop.Ide.ItemProperties.Fluent.API PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="../Fluent.Entity/BaseEntity/Blog.cs" Line="17" Column="1" />
+      <File FileName="App.config" Line="17" Column="17" />
+      <File FileName="Program.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fluent.API" expanded="True">
+            <Node name="Fluent.API" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Fluent.DaraRepository" expanded="True" />
+            <Node name="Fluent.Entity" expanded="True">
+              <Node name="BaseEntity" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
