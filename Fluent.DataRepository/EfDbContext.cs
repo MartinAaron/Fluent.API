@@ -10,7 +10,7 @@ namespace Fluent.DataRepository
 {
     public class EfDbContext : DbContext
     {
-        public EfDbContext()
+        public EfDbContext():base("name=sqlServer")
         {
 
         }

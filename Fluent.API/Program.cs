@@ -26,7 +26,6 @@ namespace Fluent.API
             }
             catch (Exception ee)
             {
-
                 throw;
             }
             

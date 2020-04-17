@@ -1,22 +1,22 @@
 ﻿<Properties StartupConfiguration="{9981B87D-97B1-4F8F-A20F-AD33A4A0F1D5}|Default">
   <MonoDevelop.Ide.ItemProperties.Fluent.API PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="App.config">
     <Files>
-      <File FileName="../Fluent.Entity/BaseEntity/Blog.cs" Line="17" Column="1" />
-      <File FileName="App.config" />
-      <File FileName="Program.cs" Line="12" Column="10" />
+      <File FileName="App.config" Line="5" Column="9" />
+      <File FileName="Program.cs" Line="28" Column="1" />
+      <File FileName="../Fluent.DataRepository/EfDbContext.cs" Line="13" Column="57" />
+      <File FileName="../Fluent.DataRepository/App.config" Line="11" Column="110" />
+      <File FileName="../Fluent.DataRepository/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="packages.config" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Fluent.API" expanded="True">
             <Node name="Fluent.API" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="App.config" selected="True" />
             </Node>
-            <Node name="Fluent.DaraRepository" expanded="True" />
-            <Node name="Fluent.Entity" expanded="True">
-              <Node name="BaseEntity" expanded="True" />
-            </Node>
+            <Node name="Fluent.DataRepository" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -25,7 +25,9 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/aaronmartin/Projects/Fluent.API/Fluent.API/Program.cs" relfile="Program.cs" line="27" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
