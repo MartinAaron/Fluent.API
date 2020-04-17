@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Fluent.API
-{
+{ 
     class Program
     {
         static void Main(string[] args)
