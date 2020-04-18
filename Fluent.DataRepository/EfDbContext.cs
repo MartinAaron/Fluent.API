@@ -10,10 +10,21 @@ namespace Fluent.DataRepository
 {
     public class EfDbContext : DbContext
     {
-        public EfDbContext():base("name=sqlServer")
+
+        public EfDbContext() : base("name=sqlServer")
         {
 
         }
+
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            //Database.SetInitializer(new DropCreateDatabaseIfModelChanges<EfDbContext>());
+            //Database.SetInitializer<EfDbContext>(null);
+            base.OnModelCreating(modelBuilder);
+        }
+
         public DbSet<Blog> Blogs { get; set; }
+        public DbSet<Department> Departments { get; set; }
+        public DbSet<Course> Courses { get; set; }
     }
 }
