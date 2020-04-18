@@ -18,7 +18,7 @@ namespace Fluent.DataRepository
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            //Database.SetInitializer(new DropCreateDatabaseIfModelChanges<EfDbContext>());
+            Database.SetInitializer(new DropCreateDatabaseIfModelChanges<EfDbContext>());
             //Database.SetInitializer<EfDbContext>(null);
             base.OnModelCreating(modelBuilder);
         }

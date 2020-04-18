@@ -34,6 +34,7 @@ namespace Fluent.API
                     //    Name = "职能机构",
                     //    Courses = courses
                     //});
+
                     efDbContext.Courses.Add(new Course() {
                         Title="语文"
                     });
