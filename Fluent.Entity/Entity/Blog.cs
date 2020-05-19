@@ -13,6 +13,6 @@ namespace Fluent.Entity.Entity
         public string Url { get; set; }
         public DateTime? CreateTime { get; set; }
         public double Double { get; set; }
-        public string Address{get;set;}
+        
     }
 }
