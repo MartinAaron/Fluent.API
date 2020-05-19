@@ -14,5 +14,6 @@ namespace Fluent.Entity.Entity
         public DateTime? CreateTime { get; set; }
         public double Double { get; set; }
         public string Address{get;set;}
+          public string Detail{get;set;}
     }
 }
